@@ -9,7 +9,7 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="61dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -40,6 +40,7 @@
         android:layout_marginStart="4dp"
         android:layout_marginTop="17dp"
         android:text="Elden Ring"
+        android:textColor="#040303"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
@@ -63,6 +64,7 @@
         android:layout_marginStart="2dp"
         android:layout_marginBottom="19dp"
         android:text="Action"
+        android:textColor="#070707"
         app:layout_constraintBottom_toTopOf="@+id/textView6"
         app:layout_constraintStart_toStartOf="@+id/textView6" />
 
@@ -73,6 +75,7 @@
         android:layout_marginStart="14dp"
         android:layout_marginBottom="19dp"
         android:text="RPG"
+        android:textColor="#090909"
         app:layout_constraintBottom_toTopOf="@+id/textView6"
         app:layout_constraintStart_toEndOf="@+id/textView6" />
 
@@ -83,6 +86,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="68dp"
         android:text="About Game"
+        android:textColor="#151414"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
