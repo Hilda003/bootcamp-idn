@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">bootcamp-idn</string>
+    <string name="about_game">About Game</string>
+    <string name="rpg">RPG</string>
+    <string name="action">Action</string>
+    <string name="_2022_02_25">2022-02-25</string>
+    <string name="elden_ring">Elden Ring</string>
+    <string name="detail_game">Detail Game</string>
+    <string name="content">Rise, Tarnished, and be guided by grace to bran dish the power of the elden Ring and become an Elde Lord in the Lands Between.
+        &#xA; &#xA; In the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered.
+        &#xA; &#xA; Marika’s offspring, demigods all, claimed the sha rds of the Elden Ring known as the Great Runes, and the mad taint of their newfound strength trig gered a war: The Shattering. A war that meant abandonment by the GreaterRise, Tarnished, and be guided by grace to brandish the power of the elden Ring and become an Elde Lord in the Lands Between.
+        &#xA; &#xA; In the Lands Between ruled by  Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered.
+        &#xA; &#xA; Marika’s offspring, demigods all, claimed the shards of the Elden Ring known as the Great Runes, and the mad taint of their newfound strength triggered a war: The Shattering. A war that meant
+abandonment by the Greater </string>
+    <string name="dev">Developer</string>
+    <string name="fs">FromSoftware</string>
+    <string name="publish">Publisher</string>
+    <string name="bandai_namco_entertainment">Bandai Namco Entertainment</string>
+    <string name="add_to_favorite">Add to Favorite</string>
 </resources>
